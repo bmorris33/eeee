@@ -1,0 +1,11 @@
+C:\Users\b.morris\source\repos\barrett app1\barrett app1\bin\Release\Database1.mdf
+C:\Users\b.morris\source\repos\barrett app1\barrett app1\bin\Release\Database1_log.ldf
+C:\Users\b.morris\source\repos\barrett app1\barrett app1\bin\Release\barrett app1.exe.config
+C:\Users\b.morris\source\repos\barrett app1\barrett app1\bin\Release\barrett app1.exe
+C:\Users\b.morris\source\repos\barrett app1\barrett app1\bin\Release\barrett app1.pdb
+C:\Users\b.morris\source\repos\barrett app1\barrett app1\obj\Release\barrett_app1.Form1.resources
+C:\Users\b.morris\source\repos\barrett app1\barrett app1\obj\Release\barrett_app1.Properties.Resources.resources
+C:\Users\b.morris\source\repos\barrett app1\barrett app1\obj\Release\barrett app1.csproj.GenerateResource.cache
+C:\Users\b.morris\source\repos\barrett app1\barrett app1\obj\Release\barrett app1.csproj.CoreCompileInputs.cache
+C:\Users\b.morris\source\repos\barrett app1\barrett app1\obj\Release\barrett app1.exe
+C:\Users\b.morris\source\repos\barrett app1\barrett app1\obj\Release\barrett app1.pdb
